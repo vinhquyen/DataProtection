@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "P0Mt/X7H+77GKcALjgjttWa93AA0g1PzAop+SXw1SrPa68hzb5Fu8tEBrRBg1WentEPmco0bYkHUpwSIQBs7HA==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\rK3-tO7K6i8-8475ht89gergt7r8g87ter\\DataProtection\\DataProtection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.0\\microsoft.bcl.timeprovider.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.ambientmetadata.application\\8.0.0\\microsoft.extensions.ambientmetadata.application.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.compliance.abstractions\\8.0.0\\microsoft.extensions.compliance.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.compliance.redaction\\8.0.0\\microsoft.extensions.compliance.redaction.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.dependencyinjection.autoactivation\\8.0.0\\microsoft.extensions.dependencyinjection.autoactivation.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.0\\microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\8.0.0\\microsoft.extensions.hosting.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.logging.configuration\\8.0.0\\microsoft.extensions.logging.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.objectpool\\8.0.0\\microsoft.extensions.objectpool.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.telemetry\\8.0.0\\microsoft.extensions.telemetry.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\microsoft.extensions.telemetry.abstractions\\8.0.0\\microsoft.extensions.telemetry.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\vinhq\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
